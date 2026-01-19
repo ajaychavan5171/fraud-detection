@@ -185,7 +185,7 @@ fraud_detection_project/
 
 ## 👤 Author
 
-**Your Name**
+**Ajesh Chavan**
 Aspiring Data Scientist | Machine Learning Enthusiast
 
 ---
